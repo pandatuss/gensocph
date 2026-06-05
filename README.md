@@ -11,7 +11,7 @@
 [![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
 [![Framer Motion](https://img.shields.io/badge/Motion-12-FF0080?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion)
 
-[**Live Preview**](https://gensocph.vercel.app/) · [**Pages**](#-pages) · [**Quiz Features**](#-interactive-features) · [**Contributing**](#-contributing)
+[**Live Preview**](https://gensocph.vercel.app/) · [**Pages**](#-pages) · [**Quiz Features**](#-interactive-features)
 
 </div>
 
@@ -207,12 +207,12 @@ export const QUIZ_SETS = [
 
 ## 📜 License
 
-Released for educational purposes. © 2026 Gender & Society PH Team.
-
+Released for educational purposes. Cavite State University - Imus Campus
 ---
 
 <div align="center">
 
-Cavite State University - Imus Campus
+© 2026 Gender & Society PH Team.
+
 
 </div>
