@@ -19,13 +19,13 @@ import artBuildTogether from "@/assets/artwork-build-together.png";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Gender & Society Philippines — Understanding Gender, Empowering Society" },
+      { title: "Gender & Development Philippines — Understanding Gender, Empowering Society" },
       {
         name: "description",
         content:
           "An interactive educational platform exploring gender, equality, laws, family, labor, academe, and media in the Philippines.",
       },
-      { property: "og:title", content: "Gender & Society Philippines" },
+      { property: "og:title", content: "Gender & Development Philippines" },
       {
         property: "og:description",
         content:
