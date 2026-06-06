@@ -10,9 +10,9 @@ export function Footer() {
         <div className="grid gap-12 md:grid-cols-12">
           <div className="md:col-span-5">
             <div className="flex items-center gap-2.5">
-              <img src={logo} alt="Gender & Society Philippines" className="h-9 w-9 rounded-full object-cover" />
+              <img src={logo} alt="Gender & Development Philippines" className="h-9 w-9 rounded-full object-cover" />
               <div className="leading-tight">
-                <div className="text-sm font-bold">Gender &amp; Society</div>
+                <div className="text-sm font-bold">Gender &amp; Development</div>
                 <div className="text-[10px] uppercase tracking-[0.18em] text-muted-foreground">Philippines</div>
               </div>
             </div>
@@ -39,13 +39,13 @@ export function Footer() {
             <div className="text-[11px] font-semibold uppercase tracking-[0.18em] text-foreground/80 mb-4">About</div>
             <p className="text-sm text-muted-foreground leading-relaxed">
               An educational project by students of{" "}
-              <span className="font-semibold text-foreground">GNED 10A — Gender and Society</span>, A.Y. 2025–2026.
+              <span className="font-semibold text-foreground">GNED 10A — Gender and Development</span>, A.Y. 2025–2026.
             </p>
           </div>
         </div>
 
         <div className="mt-12 pt-6 border-t border-border/60 flex flex-col md:flex-row items-center justify-between gap-2 text-xs text-muted-foreground">
-          <div>© {new Date().getFullYear()} Gender &amp; Society Philippines · For educational use.</div>
+          <div>© {new Date().getFullYear()} Gender &amp; Development Philippines · For educational use.</div>
           <div>Cavite State University — Imus Campus</div>
         </div>
       </div>
