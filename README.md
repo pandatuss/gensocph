@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Gender & Society PH ✦
+# ✦ Gender & Development PH ✦
 
 ### *Understanding Gender, Empowering Society — a modern, interactive journey through Philippine gender topics*
 
@@ -19,7 +19,7 @@
 
 ## 🌸 Overview
 
-**Gender & Society PH** is an elegant, interactive web experience that explores gender across Philippine **history, family, labor, academe, media, and law**. It pairs research-grade content with a glassmorphic lavender aesthetic, fluid motion, and gamified learning — turning dense civic topics into a journey anyone can follow.
+**Gender & Development PH** is an elegant, interactive web experience that explores gender across Philippine **history, family, labor, academe, media, and law**. It pairs research-grade content with a glassmorphic lavender aesthetic, fluid motion, and gamified learning — turning dense civic topics into a journey anyone can follow.
 
 > *"Understanding gender begins with seeing society clearly."*
 
@@ -212,7 +212,7 @@ Released for educational purposes. Cavite State University - Imus Campus
 
 <div align="center">
 
-© 2026 Gender & Society PH Team.
+© 2026 Gender & Development PH Team.
 
 
 </div>
