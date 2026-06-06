@@ -6,9 +6,9 @@ import { GADSection } from "@/components/sections/GADSection";
 export const Route = createFileRoute("/gad")({
   head: () => ({
     meta: [
-      { title: "Gender & Development (GAD) — Gender & Society PH" },
+      { title: "Gender & Development" },
       { name: "description", content: "The GAD framework in action: WID vs GAD, timeline, statistics, and current status in the Philippines." },
-      { property: "og:title", content: "Gender & Development (GAD)" },
+      { property: "og:title", content: "Gender & Development" },
       { property: "og:description", content: "How the Philippines mainstreams gender across every sector and budget line." },
     ],
   }),
