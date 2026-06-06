@@ -6,7 +6,7 @@ import { AcademeSection } from "@/components/sections/AcademeSection";
 export const Route = createFileRoute("/academe")({
   head: () => ({
     meta: [
-      { title: "Gender in the Philippine Academe — Gender & Society PH" },
+      { title: "Gender in the Philippine Academe" },
       { name: "description", content: "Gender policies, diversity, institutional barriers, and recommendations in Philippine education." },
       { property: "og:title", content: "Gender in the Philippine Academe" },
       { property: "og:description", content: "Schools as battlegrounds and bridges — CHED, DepEd, SOGIE advocacy, and safe campuses." },
