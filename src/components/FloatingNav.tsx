@@ -38,7 +38,7 @@ export function FloatingNav() {
         <Link to="/" className="flex items-center gap-2.5 pl-2">
           <img src={logo} alt="Gender & Development Philippines" className="h-9 w-9 rounded-full object-cover shadow-glow" />
           <span className="flex flex-col leading-tight">
-            <span className="text-sm font-semibold tracking-tight text-foreground">Gender &amp; Society</span>
+            <span className="text-sm font-semibold tracking-tight text-foreground">Gender &amp; Development</span>
             <span className="text-[10px] uppercase tracking-[0.18em] text-muted-foreground">Philippines</span>
           </span>
         </Link>
