@@ -27,7 +27,7 @@ function MembersPage() {
     <PageShell
       eyebrow="Members"
       icon={Users}
-      title={<>The people behind <span className="gradient-text">Gender & Society PH</span></>}
+      title={<>The people behind <span className="gradient-text">Gender & Development PH</span></>}
       description="Get to know the researchers, designers, and developers who brought this educational platform on gender and development in the Philippines to life."
     >
 
