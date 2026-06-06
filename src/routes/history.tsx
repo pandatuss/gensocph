@@ -6,7 +6,7 @@ import { HistorySection } from "@/components/sections/HistorySection";
 export const Route = createFileRoute("/history")({
   head: () => ({
     meta: [
-      { title: "History of Gender in the Philippines — Gender & Society PH" },
+      { title: "History of Gender in the Philippine" },
       { name: "description", content: "An interactive timeline of gender in the Philippines, from pre-colonial babaylan to the contemporary era." },
       { property: "og:title", content: "History of Gender in the Philippines" },
       { property: "og:description", content: "From egalitarian baranganic societies to today's contested but progressive landscape." },
