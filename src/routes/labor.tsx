@@ -6,7 +6,7 @@ import { LaborSection } from "@/components/sections/LaborSection";
 export const Route = createFileRoute("/labor")({
   head: () => ({
     meta: [
-      { title: "Status of Gender in the Philippine Labor Market — Gender & Society PH" },
+      { title: "Gender in the Philippine Labor Market" },
       { name: "description", content: "Workforce participation, wages, and the gender gap across the Philippine labor market." },
       { property: "og:title", content: "Gender in the Philippine Labor Market" },
       { property: "og:description", content: "Work, wages, and the gender gap — interactive dashboards from PSA and ILO data." },
