@@ -8,10 +8,10 @@ import { MEMBERS, type MemberSocial } from "@/lib/site-data";
 export const Route = createFileRoute("/members")({
   head: () => ({
     meta: [
-      { title: "Members — Gender & Society PH" },
-      { name: "description", content: "Meet the team behind Gender & Society Philippines — researchers, designers, and developers building a modern learning platform." },
-      { property: "og:title", content: "Members — Gender & Society PH" },
-      { property: "og:description", content: "The people building a modern, inclusive learning platform for gender and society in the Philippines." },
+      { title: "Members" },
+      { name: "description", content: "Meet the team behind Gender & Development Philippines — researchers, designers, and developers building a modern learning platform." },
+      { property: "og:title", content: "Members — Gender & Development PH" },
+      { property: "og:description", content: "The people building a modern, inclusive learning platform for gender and developent in the Philippines." },
     ],
   }),
   component: MembersPage,
@@ -28,7 +28,7 @@ function MembersPage() {
       eyebrow="Members"
       icon={Users}
       title={<>The people behind <span className="gradient-text">Gender & Society PH</span></>}
-      description="Get to know the researchers, designers, and developers who brought this educational platform on gender and society in the Philippines to life."
+      description="Get to know the researchers, designers, and developers who brought this educational platform on gender and development in the Philippines to life."
     >
 
       <section className="relative py-16 md:py-24">
