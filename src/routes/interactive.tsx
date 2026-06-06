@@ -6,7 +6,7 @@ import { InteractiveSection } from "@/components/sections/InteractiveSection";
 export const Route = createFileRoute("/interactive")({
   head: () => ({
     meta: [
-      { title: "Interactive Learning Center — Gender & Society PH" },
+      { title: "Interactive Learning Center" },
       { name: "description", content: "Swipe cards, fun fact generator, and knowledge quiz on Philippine gender topics." },
       { property: "og:title", content: "Interactive Learning Center" },
       { property: "og:description", content: "Gamified learning — swipe, spark, and score your way through Philippine gender knowledge." },
