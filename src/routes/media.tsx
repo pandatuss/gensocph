@@ -6,7 +6,7 @@ import { MediaSection } from "@/components/sections/MediaSection";
 export const Route = createFileRoute("/media")({
   head: () => ({
     meta: [
-      { title: "Gender in Media & Entertainment — Gender & Society PH" },
+      { title: "Gender in Media & Entertainmen" },
       { name: "description", content: "Traditional and modern Philippine media representation of gender, LGBTQ+ visibility, and advertising trends." },
       { property: "og:title", content: "Gender in Media & Entertainment" },
       { property: "og:description", content: "How Philippine media tells gender — from martyr-mothers to queer artistry going global." },
