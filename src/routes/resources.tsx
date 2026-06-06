@@ -6,7 +6,7 @@ import { ResourcesSection } from "@/components/sections/ResourcesSection";
 export const Route = createFileRoute("/resources")({
   head: () => ({
     meta: [
-      { title: "References & Further Reading — Gender & Society PH" },
+      { title: "References & Further Reading" },
       { name: "description", content: "Curated government, academic, international, and advocacy sources on Philippine gender." },
       { property: "og:title", content: "References & Further Reading" },
       { property: "og:description", content: "Government, academic, international, and advocacy sources for deeper study." },
